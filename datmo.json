@@ -3,7 +3,7 @@
     "base_model_definition_owner_username": "shabazp",
     "base_model_definition_slug": "iris-classification",
     "base_snapshot_id": null,
-    "best_snapshot_id": null,
+    "best_snapshot_id": "oelmzs0i4ddq",
     "categories": "",
     "config_json": null,
     "created_at": "2017-09-11T16:12:27.132Z",
@@ -30,6 +30,6 @@
     "repo_watchers_count": 0,
     "slug": "iris-classification",
     "tags": null,
-    "updated_at": "2017-09-11T16:12:41.632Z",
+    "updated_at": "2017-09-11T16:38:38.959Z",
     "username": "ajay"
 }
