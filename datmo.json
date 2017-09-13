@@ -18,6 +18,7 @@
     "id": "68gr7skbg5vq",
     "is_owner": true,
     "is_public": false,
+    "model_family_id": 3546,
     "name": "iris classification",
     "owner_email": "aj+test@acusense.ai",
     "readme": null,
@@ -30,6 +31,6 @@
     "repo_watchers_count": 0,
     "slug": "iris-classification",
     "tags": null,
-    "updated_at": "2017-09-12T01:00:29.950Z",
+    "updated_at": "2017-09-13T01:00:24.711Z",
     "username": "ajay"
 }
